@@ -1,2 +1,2 @@
 # world_map_dashboard
-It's a dashboard with general information about each country on world map. Project with Santiago Santa.
+It's a dashboard with global GDP 2021 and general information about each country on the world map. Project with Santiago Santa.
